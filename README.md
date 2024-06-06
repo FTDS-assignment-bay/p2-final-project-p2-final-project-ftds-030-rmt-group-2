@@ -15,7 +15,7 @@ Data Scientist : Raymond Samuel, Raodah Hasman.
 Data Engineer  : Raymond Samuel.
 
 * Dataset Source: https://archive.ics.uci.edu/
-* Dataset name  : online_shoppers_intention.csv
+* Dataset name  :user_behavior.csv, user_profile.csv
 
 #### Latar belakang: 
 * Penggunaan E-Commerce telah meningkat pesat dalam beberapa tahun terakhir, menciptakan peluang besar di pasar. Namun, tingkat konversi pembelian tidak meningkat dengan kecepatan yang sama, sehingga diperlukan solusi yan dapat memberikan promosi yang dipersonalisasi kepada pembeli online. Dalam perdagangan fisik, seorang penjual dapat menawarkan berbagai alternatif yang disesusaikan kepada pembeli berdasarkan pengalaman yang telah diperolehnya. Pengalaman ini sangat mempengaruhi efisiensi waktu, tingkat konversi pembelian, dan angka penjualan.
