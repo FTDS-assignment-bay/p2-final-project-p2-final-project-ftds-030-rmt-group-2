@@ -2,7 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15220917&assignment_repo_type=AssignmentRepo)
 
 # Introduction
-=================================================================================================================================================
+===========================================================================================================
 
 Group 2
 
@@ -46,7 +46,9 @@ Data Engineer  : Raymond Samuel.
 
 * Pada program ini, kami memprediksi niat pembelian pengguna menggunakan data tampilan halaman yang dikumpulkan selama kunjungan, bersama dengan informasi sesi dan pengguna. Dengan menggunakan data ini, kami membuat model prediksi untuk memahami apakah pengunjung memiliki niat untuk melakukan pembelian atau tidak. Pada model ini digunakan metrik precision dengan tujuan meminimalisir terjadinya True Positif (pengunjung yang sebenarnya tidak belanja, namun dikategorikan belanja). Pada model ini dilakukan enam jenis model yaitu Logstic Regression, KNN, SVM, Decision Tree, Random Forest, dan XGBoost. Model XGBoost terbukti memberikan kinerja terbaik setelah dilakukan hyperparameter tuning, dengan memiliki nilai precision skor paling tinggi dibandingkan dengan model lain.
 
-=================================================================================================================================================
+===========================================================================================================
 
-HuggingFace : https://huggingface.co/spaces/raniesm/Predicting_Visitor_Conversion_on_E-Commerce_Websites
-Dashboard : https://public.tableau.com/app/profile/ranie.sita/viz/FinalProject_17175110023700/Dashboard1?publish=yes
+#### HuggingFace : 
+https://huggingface.co/spaces/raniesm/Predicting_Visitor_Conversion_on_E-Commerce_Websites
+#### Dashboard : 
+https://public.tableau.com/app/profile/ranie.sita/viz/FinalProject_17175110023700/Dashboard1?publish=yes
